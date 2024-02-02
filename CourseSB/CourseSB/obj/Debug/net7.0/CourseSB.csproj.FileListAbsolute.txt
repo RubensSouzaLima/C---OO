@@ -1,0 +1,14 @@
+C:\C# - Intermediario\CourseSB\CourseSB\bin\Debug\net7.0\CourseSB.exe
+C:\C# - Intermediario\CourseSB\CourseSB\bin\Debug\net7.0\CourseSB.deps.json
+C:\C# - Intermediario\CourseSB\CourseSB\bin\Debug\net7.0\CourseSB.runtimeconfig.json
+C:\C# - Intermediario\CourseSB\CourseSB\bin\Debug\net7.0\CourseSB.dll
+C:\C# - Intermediario\CourseSB\CourseSB\bin\Debug\net7.0\CourseSB.pdb
+C:\C# - Intermediario\CourseSB\CourseSB\obj\Debug\net7.0\CourseSB.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# - Intermediario\CourseSB\CourseSB\obj\Debug\net7.0\CourseSB.AssemblyInfoInputs.cache
+C:\C# - Intermediario\CourseSB\CourseSB\obj\Debug\net7.0\CourseSB.AssemblyInfo.cs
+C:\C# - Intermediario\CourseSB\CourseSB\obj\Debug\net7.0\CourseSB.csproj.CoreCompileInputs.cache
+C:\C# - Intermediario\CourseSB\CourseSB\obj\Debug\net7.0\CourseSB.dll
+C:\C# - Intermediario\CourseSB\CourseSB\obj\Debug\net7.0\refint\CourseSB.dll
+C:\C# - Intermediario\CourseSB\CourseSB\obj\Debug\net7.0\CourseSB.pdb
+C:\C# - Intermediario\CourseSB\CourseSB\obj\Debug\net7.0\CourseSB.genruntimeconfig.cache
+C:\C# - Intermediario\CourseSB\CourseSB\obj\Debug\net7.0\ref\CourseSB.dll

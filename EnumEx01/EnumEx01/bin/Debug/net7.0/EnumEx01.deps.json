@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "EnumEx01/1.0.0": {
+        "runtime": {
+          "EnumEx01.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EnumEx01/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

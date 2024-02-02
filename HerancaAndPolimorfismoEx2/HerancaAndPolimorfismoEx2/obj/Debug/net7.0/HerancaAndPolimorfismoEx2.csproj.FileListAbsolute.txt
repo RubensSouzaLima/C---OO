@@ -1,0 +1,14 @@
+C:\C# - Intermediario\HerancaAndPolimorfismoEx2\HerancaAndPolimorfismoEx2\bin\Debug\net7.0\HerancaAndPolimorfismoEx2.exe
+C:\C# - Intermediario\HerancaAndPolimorfismoEx2\HerancaAndPolimorfismoEx2\bin\Debug\net7.0\HerancaAndPolimorfismoEx2.deps.json
+C:\C# - Intermediario\HerancaAndPolimorfismoEx2\HerancaAndPolimorfismoEx2\bin\Debug\net7.0\HerancaAndPolimorfismoEx2.runtimeconfig.json
+C:\C# - Intermediario\HerancaAndPolimorfismoEx2\HerancaAndPolimorfismoEx2\bin\Debug\net7.0\HerancaAndPolimorfismoEx2.dll
+C:\C# - Intermediario\HerancaAndPolimorfismoEx2\HerancaAndPolimorfismoEx2\bin\Debug\net7.0\HerancaAndPolimorfismoEx2.pdb
+C:\C# - Intermediario\HerancaAndPolimorfismoEx2\HerancaAndPolimorfismoEx2\obj\Debug\net7.0\HerancaAndPolimorfismoEx2.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# - Intermediario\HerancaAndPolimorfismoEx2\HerancaAndPolimorfismoEx2\obj\Debug\net7.0\HerancaAndPolimorfismoEx2.AssemblyInfoInputs.cache
+C:\C# - Intermediario\HerancaAndPolimorfismoEx2\HerancaAndPolimorfismoEx2\obj\Debug\net7.0\HerancaAndPolimorfismoEx2.AssemblyInfo.cs
+C:\C# - Intermediario\HerancaAndPolimorfismoEx2\HerancaAndPolimorfismoEx2\obj\Debug\net7.0\HerancaAndPolimorfismoEx2.csproj.CoreCompileInputs.cache
+C:\C# - Intermediario\HerancaAndPolimorfismoEx2\HerancaAndPolimorfismoEx2\obj\Debug\net7.0\HerancaAndPolimorfismoEx2.dll
+C:\C# - Intermediario\HerancaAndPolimorfismoEx2\HerancaAndPolimorfismoEx2\obj\Debug\net7.0\refint\HerancaAndPolimorfismoEx2.dll
+C:\C# - Intermediario\HerancaAndPolimorfismoEx2\HerancaAndPolimorfismoEx2\obj\Debug\net7.0\HerancaAndPolimorfismoEx2.pdb
+C:\C# - Intermediario\HerancaAndPolimorfismoEx2\HerancaAndPolimorfismoEx2\obj\Debug\net7.0\HerancaAndPolimorfismoEx2.genruntimeconfig.cache
+C:\C# - Intermediario\HerancaAndPolimorfismoEx2\HerancaAndPolimorfismoEx2\obj\Debug\net7.0\ref\HerancaAndPolimorfismoEx2.dll

@@ -1,0 +1,14 @@
+C:\C# - Intermediario\ExFixacaoEnum\ExFixacaoEnum\bin\Debug\net7.0\ExFixacaoEnum.exe
+C:\C# - Intermediario\ExFixacaoEnum\ExFixacaoEnum\bin\Debug\net7.0\ExFixacaoEnum.deps.json
+C:\C# - Intermediario\ExFixacaoEnum\ExFixacaoEnum\bin\Debug\net7.0\ExFixacaoEnum.runtimeconfig.json
+C:\C# - Intermediario\ExFixacaoEnum\ExFixacaoEnum\bin\Debug\net7.0\ExFixacaoEnum.dll
+C:\C# - Intermediario\ExFixacaoEnum\ExFixacaoEnum\bin\Debug\net7.0\ExFixacaoEnum.pdb
+C:\C# - Intermediario\ExFixacaoEnum\ExFixacaoEnum\obj\Debug\net7.0\ExFixacaoEnum.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# - Intermediario\ExFixacaoEnum\ExFixacaoEnum\obj\Debug\net7.0\ExFixacaoEnum.AssemblyInfoInputs.cache
+C:\C# - Intermediario\ExFixacaoEnum\ExFixacaoEnum\obj\Debug\net7.0\ExFixacaoEnum.AssemblyInfo.cs
+C:\C# - Intermediario\ExFixacaoEnum\ExFixacaoEnum\obj\Debug\net7.0\ExFixacaoEnum.csproj.CoreCompileInputs.cache
+C:\C# - Intermediario\ExFixacaoEnum\ExFixacaoEnum\obj\Debug\net7.0\ExFixacaoEnum.dll
+C:\C# - Intermediario\ExFixacaoEnum\ExFixacaoEnum\obj\Debug\net7.0\refint\ExFixacaoEnum.dll
+C:\C# - Intermediario\ExFixacaoEnum\ExFixacaoEnum\obj\Debug\net7.0\ExFixacaoEnum.pdb
+C:\C# - Intermediario\ExFixacaoEnum\ExFixacaoEnum\obj\Debug\net7.0\ExFixacaoEnum.genruntimeconfig.cache
+C:\C# - Intermediario\ExFixacaoEnum\ExFixacaoEnum\obj\Debug\net7.0\ref\ExFixacaoEnum.dll
